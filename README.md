@@ -15,7 +15,7 @@ ___________
 For those of you that select to work with the UR5e, you will be focused on improving robot motion through Reinforcement Learning. 
 The focus of this project is developing a Robotic Cellist which can sight-read new muic. The benefit of selecting option 1 comes with 
 having a much larger number of resources available both online and through previous members of the project to assist with your work. The UR5e is easily
-programmable, and intuitive to use. However, option 1 has less flexibility than option 2 on what you can work on, and it is leess open-ended. 
+programmable, and intuitive to use. However, option 1 has less flexibility than option 2 on what you can work on, and it is less open-ended. 
 
 
 Option 2
